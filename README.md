@@ -1,6 +1,6 @@
 # Subsisters
 
-## 🚀 Overview
+## Overview
 
 This is a game made during the month of October for [Hacktoberfest 2022](https://hacktoberfest.com). It is a simple survivor game where the player controls one of four sisters to fight against an increasingly difficult horde of monsters. It is inspired by games like:
 
